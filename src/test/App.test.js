@@ -38,8 +38,8 @@ const pages = [
     component: Stats,
   },
   {
-    route: '/contact',
-    heading: 'Contact',
+    route: '/contacttt',
+    heading: 'Contacttt',
     component: Contacttt,
   },
   {
